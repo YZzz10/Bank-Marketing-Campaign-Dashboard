@@ -18,6 +18,5 @@
 
 
 ## Final Recommendations
-- This suggests that staff scheduling could be optimized by reallocating resources away from lower-volume days toward peak days to improve overall operational efficiency.
-- This indicates that sustained periods of above-normal complaint volume may require additional staffing capacity to maintain service levels and protect response times.
--
+- The employed segment combines the largest customer volume with the lowest conversion rate, indicating significant untapped potential. Targeted messaging, optimized contact timing, or more personalized offers may help improve campaign effectiveness within this high-impact group.
+- Students and retired customers consistently outperform other employment groups in conversion rate, indicating a stronger likelihood of responding positively to campaign outreach.
