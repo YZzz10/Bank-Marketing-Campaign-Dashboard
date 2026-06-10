@@ -13,10 +13,9 @@
 
 
 ## Project Insights
-- When analyzing complaints by day of the week, Thursday and Friday consistently show lower complaint volumes, with this lower-volume pattern observed across most time periods, while the remaining days maintain relatively higher complaint levels. This suggests that staff scheduling could be optimized by reallocating resources away from lower-volume days toward peak days to improve overall operational efficiency.
-- There was a noticeable spike in complaint volume around September 2020, during which timely response rates declined slightly, (indicating that existing capacity may be approaching its upper limit and could require additional staffing during sustained high-demand periods).
-- Web remained the dominant submission channel over time. Notably, fluctuations in total complaint volume closely mirrored trends in Web-submitted complaints, indicating that overall volume changes were primarily driven by the Web channel, while other channels remained relatively stable and contributed minimally throughout the period. (This suggests that workforce capacity should be prioritized for the Web support channel, rather than reallocating significant resources to other channels such as phone or email support.)
-- Among complaint issue categories, Disputes have consistently remained the most common issue type. (Further investigation into the underlying drivers of dispute-related complaints could help reduce recurrence and lower its overall proportion.)
+- Higher education levels are associated with stronger campaign conversion performance, and the largest customer segment with the highest conversion rate is University Degree, making it the most attractive target group for future campaigns.
+- Although employed customers have the lowest conversion rate, they represent by far the largest customer segment in the dataset. As a result, even small improvements in conversion performance within this group could generate a substantial increase in total conversions.
+
 
 ## Final Recommendations
 - This suggests that staff scheduling could be optimized by reallocating resources away from lower-volume days toward peak days to improve overall operational efficiency.
