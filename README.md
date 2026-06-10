@@ -13,7 +13,7 @@
 
 
 ## Project Insights
-Conversion rates generally increase with education level. Clients with a university degree exhibit the highest conversion rate among all education groups while also representing one of the largest customer segments.
+- Conversion rates generally increase with education level. Clients with a university degree exhibit the highest conversion rate among all education groups while also representing one of the largest customer segments.
 - Although employed customers have the lowest conversion rate, they represent by far the largest customer segment in the dataset. As a result, even small improvements in conversion performance within this group could generate a substantial increase in total conversions.
 - Students and retired customers consistently outperform other employment groups in conversion rate, indicating a stronger likelihood of responding positively to campaign outreach.
 
