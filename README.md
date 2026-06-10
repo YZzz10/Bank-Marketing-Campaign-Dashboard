@@ -17,9 +17,13 @@
 - Conversion rates generally increase with education level. Clients with a university degree exhibit the highest conversion rate among all education groups while also representing one of the largest customer segments.
 - The employed segment combines the largest customer volume with the lowest conversion rate, indicating that even modest improvements in conversion performance could have a meaningful impact on overall campaign outcomes.
 - Students and retired customers consistently outperform other employment groups in conversion rate, indicating a stronger likelihood of responding positively to campaign outreach
+- Customers aged 60 and above achieve the highest conversion rate despite representing one of the smallest customer groups, while customers aged 30–39 account for the largest customer volumes but exhibit substantially lower conversion performance.
+- Customers without default records combine both the largest customer volume and the highest conversion rate, whereas customers with default records show no successful conversions.
 
 
 ## Final Recommendations
 - Consider allocating additional marketing resources toward university-educated customers, who represent a high-value segment due to their combination of scale and conversion effectiveness.
 - For the employed customer segment, targeted messaging, optimized contact timing, or more personalized offers may help improve campaign effectiveness and overall conversion outcomes.
 - Consider allocating a greater proportion of campaign resources to student and retired customer segments, as their higher conversion rates suggest a greater likelihood of positive campaign outcomes.
+- Future campaigns should balance efficiency and scale by maintaining focus on high-converting older customers while exploring opportunities to improve conversion performance among the large 30–39 customer segment.
+- Future campaigns may benefit from prioritizing customers without credit default records, as this segment demonstrates both scale and strong conversion performance.
