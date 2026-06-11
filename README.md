@@ -1,10 +1,10 @@
 # Bank-Marketing-Campaign-Dashboard
 
 ## Project Objective
-
+To identify customer characteristics and campaign factors associated with successful term deposit subscriptions and support more effective customer targeting strategies.
 
 ## Dataset Used
-- <a href="https://github.com/YZzz10/Credit-Card-Complaint-Dashboard/blob/main/Credit%20Card%20Data.xlsx">Credit Card Complaint Dataset</a>
+- <a href="">Bank Marketing Campaign Dataset</a>
 
 ## View Dashboard
 <a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
