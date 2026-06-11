@@ -21,6 +21,8 @@
 - Customers without default records combine both the largest customer volume and the highest conversion rate, whereas customers with default records show no successful conversions.
 - Customers with a previously successful campaign outcome achieve the highest conversion rate despite representing the smallest customer segment. Conversely, customers with no previous campaign history account for the largest customer volume but exhibit the lowest conversion performance.
 - Conversion rates increase substantially with the number of previous contacts. However, customer volume declines sharply as contact history increases, with first-time contacts accounting for the vast majority of customers despite exhibiting the lowest conversion performance.
+- Recently contacted customers demonstrate significantly stronger conversion performance, while customers with no recent contact history account for the largest customer segment but exhibit lower conversion rates.
+- Both customer volume and conversion performance decline as campaign contact frequency increases. Customers contacted once represent the largest customer segment and achieve the strongest conversion performance, while heavily contacted customers exhibit substantially lower conversion rates.
 
 
 ## Final Recommendations
@@ -31,3 +33,5 @@
 - Future campaigns may benefit from prioritizing customers without credit default records, as this segment demonstrates both scale and strong conversion performance.
 - Future campaigns should prioritize customers who responded successfully to previous campaigns, as they demonstrate the strongest likelihood of converting again.
 - Future campaigns should balance efforts between high-converting previously contacted customers and first-time contacts, whose large population size offers the greatest potential for increasing total conversions.
+- Recent contact history should be considered when prioritizing customer outreach. Additional efforts may be directed toward improving engagement among customers with no recent contact history, as they represent the largest opportunity for increasing total conversions.
+- Future campaigns should monitor contact frequency carefully, as repeated outreach appears to generate diminishing conversion returns. Alternative engagement strategies may be considered for customers who remain unresponsive after multiple contact attempts.
