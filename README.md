@@ -1,15 +1,16 @@
 # Bank-Marketing-Campaign-Dashboard
 
 ## Project Objective
-To identify customer characteristics and campaign factors associated with successful term deposit subscriptions and support more effective customer targeting strategies.
+havent edited To identify customer characteristics and campaign factors associated with successful term deposit subscriptions and support more effective customer targeting strategies.
 
 ## Dataset Used
 - <a href="">Bank Marketing Campaign Dataset</a>
 
 ## View Dashboard
-<a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
+<a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/BankMarketData/Dashboard2">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
 
 ## Dashboard
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e9a45e0a-bd0e-433a-bd7c-43682dc8ec66" />
 
 
 
