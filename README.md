@@ -1,7 +1,7 @@
 # Bank-Marketing-Campaign-Dashboard
 
 ## Project Objective
-havent edited To identify customer characteristics and campaign factors associated with successful term deposit subscriptions and support more effective customer targeting strategies.
+Explore the key factors influencing campaign conversion performance and identify customer segments with the greatest potential for successful marketing outcomes.
 
 ## Dataset Used
 - <a href="https://github.com/YZzz10/Bank-Marketing-Campaign-Dashboard/blob/main/Bank%20Marketing%20Campaign%20Dataset.csv">Bank Marketing Campaign Dataset</a>
